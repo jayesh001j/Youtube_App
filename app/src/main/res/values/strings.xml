@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Youtube_App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="client_id">104504357166-rbofromp0nf6aelf98910o62lat7j1gm.apps.googleusercontent.com</string>
+
+
+
 </resources>
